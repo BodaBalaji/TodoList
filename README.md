@@ -1,1 +1,1 @@
-# TodoList
+A full-stack Todo List application built with Next.js, Node.js, and MongoDB. This application allows users to create, read, update, and delete (CRUD) todo items. The frontend is built with React, utilizing Next.js for server-side rendering and static site generation. The backend is built with Node.js, using Express.js as the framework, and MongoDB as the NoSQL database for storing todo items. The application provides a simple and intuitive interface for users to manage their todo lists, with features such as real-time updates and data persistence.
